@@ -2,8 +2,7 @@ Package: plotPhilter
 Type: Package
 Title: plot for Philter projects
 Version: 0.1.0
-Authors@R: c(
-    person("Clementine", "Decamps", role = "cre",
+Authors@R: c(person("Clémentine", "Decamps", role = "aut",
            email = "clementine.decamps@gmail.com"),
     person("Florent", "Chuffar", role = "aut",
            email = "florent.chuffar@univ-grenoble-alpes.fr"))
