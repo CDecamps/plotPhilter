@@ -1,0 +1,14 @@
+Package: plotPhilter
+Type: Package
+Title: plot for Philter projects
+Version: 0.1.0
+Authors@R: c(
+    person("Clémentine", "Decamps", role = "aut",
+           email = "clementine.decamps@univ-grenoble-alpes.fr"),
+    person("Florent", "Chuffar", role = "aut",
+           email = "florent.chuffar@univ-grenoble-alpes.fr"))
+Description: Fonctions for my plots.
+License: GPL-3
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+Config/roxygen2/version: 8.1.1
