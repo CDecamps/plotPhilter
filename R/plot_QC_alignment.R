@@ -1,3 +1,14 @@
+#' plot_QC_alignment
+#'
+#' @param count_summary the .counts.summary file
+#' @param count_table 
+#' @param metadata 
+#' @param name 
+#'
+#' @returns
+#' @export
+#'
+#' @examples
 plot_QC_alignment = function(count_summary, count_table, metadata, name = ""){
   
   df_QC = data.frame(samples = metadata$sample,
