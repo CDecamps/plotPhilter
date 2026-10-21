@@ -1,3 +1,12 @@
+#' plot_finger_print
+#'
+#' @param raw_counts raw count matrix 
+#' @param var_metadata vector of groups
+#'
+#' @returns
+#' @export
+#'
+#' @examples
 plot_finger_print = function(raw_counts, var_metadata, xmin = 0, xmax = 1){
   
   data = as.matrix(raw_counts)
